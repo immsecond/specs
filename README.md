@@ -9,7 +9,8 @@
 - **CASE**: NZXT H510
 
 # ⌨️ Peripherals
-* **KEYBOARDS**: ***Bella*** (75% Exploded Layout, Top Mount, Brass Plate, Hot-swap RGB PCB, Case/Plate Foam, Stock Banana Splits, Clipped/Lubed Cherry Stabilizers, GMK Modern Dolch) / ***Ginko65*** (March/April 2022 Shipping EST) (65% Layout, Gasket Mount, Carbon Fiber Plate, Case Foam, Stock Tangerines, Lubed Durock v2 Stabilizers)
+* **KEYBOARDS**: ***Bella*** (75% Exploded Layout, Top Mount, Brass Plate, Hot-swap RGB PCB, Case/Plate Foam, Stock Banana Splits, Clipped/Lubed Cherry Stabilizers, GMK Modern Dolch)
+***Ginko65*** (March/April 2022 Shipping EST) (65% Layout, Gasket Mount, Carbon Fiber Plate, Case Foam, Stock Tangerines, Lubed Durock v2 Stabilizers)
 * **MONITORS**: ViewSonic ELITE XG270 (240hz) / Dell D2719HGF (144hz)
 * **MICROPHONE**: HyperX Quadcast S
 * **MOUSE**: Razer Viper Ultimate Wireless
