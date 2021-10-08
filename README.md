@@ -10,6 +10,7 @@
 
 # ⌨️ Peripherals
 * **KEYBOARDS**: 
+
 ***Bella*** (75% Exploded Layout, Top Mount, Brass Plate, Hot-swap RGB PCB, Case/Plate Foam, Stock Banana Splits, Clipped/Lubed Cherry Stabilizers, GMK Modern Dolch)
 
 ***Ginko65*** (March/April 2022 Shipping EST) (65% Layout, Gasket Mount, Carbon Fiber Plate, Case Foam, Stock Tangerines, Lubed Durock v2 Stabilizers)
