@@ -9,7 +9,7 @@
 - **CASE**: NZXT H510
 
 # ⌨️ Peripherals
-* **KEYBOARDS**: 
+* **KEYBOARDS**:
      -Bella (75% Exploded Layout, Brass Plate, Hot-swap RGB PCB, Stock Banana Splits, Clipped/Lubed Cherry Stabilizers, Case/Plate Foam, GMK Modern Dolch)
 * **MONITORS**: ViewSonic ELITE XG270 (240hz) / Dell D2719HGF (144hz)
 * **MICROPHONE**: HyperX Quadcast S
