@@ -1,12 +1,13 @@
 # 🖥️ PC Specs
-- **CPU**: AMD Ryzen 7 2700x
-- **COOLER**: Wraith Prism
-- **MOTHERBOARD**: Gigabyte B450 Aorus PRO WIFI
-- **MEMORY**: G.Skill Ripjaws V 2x8gb (3200)
-- **STORAGE**: WD Blue 1TB / Samsung 860 EVO 500GB
-- **GPU**: Gigabyte GeForce RTX 2070 8 GB WINDFORCE 2X
-- **PSU**: EVGA SuperNOVA G3 650w 80+ Gold
-- **CASE**: NZXT H510
+- **CPU**: AMD Ryzen 7 5800X
+- **COOLER**:	Noctua NH-D15 chromax.black
+- **MOTHERBOARD**: MSI MPG B550 GAMING CARBON WIFI
+- **MEMORY**: G.Skill Trident Z RGB 32 GB (2 x 16 GB) (3600, CL18)
+- **STORAGE**: WD_BLACK SN750 SE 1 TB M.2 / WD_BLACK SN750 SE 500 GB M.2
+- **GPU**: EVGA GeForce RTX 3070 8 GB XC3 ULTRA GAMING
+- **PSU**: EVGA G5 750 W 80+ Gold
+- **CASE**: Lian Li O11 Air Mini
+- [Link to Full Build](https://pcpartpicker.com/user/ImmSecond/saved/wYv68d)
 
 # ⌨️ Peripherals
 * **KEYBOARD**: ***Bella*** (75% Exploded Layout, Top Mount, Brass Plate, Hot-swap RGB PCB, Case/Plate Foam, Stock Banana Splits, Clipped/Lubed Cherry Stabilizers, GMK Modern Dolch)
