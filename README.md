@@ -12,11 +12,11 @@
 # ⌨️ Peripherals
 * **KEYBOARD**: ***Bella*** (75% Exploded Layout, Top Mount, Brass Plate, Hot-swap RGB PCB, Case/Plate Foam, Stock Banana Splits, Clipped/Lubed Cherry Stabilizers, GMK Modern Dolch)
 * **MONITORS**: ViewSonic ELITE XG270 (240hz) / Dell D2719HGF (144hz)
-* **MICROPHONE**: HyperX Quadcast S
-* **MOUSE**: Razer Viper Ultimate Wireless
+* **MICROPHONE**: BEACN Mic
+* **MICE**: Razer Viper Ultimate Wireless / Logitech MX Master 3
 * **TABLET**: Wacom CTL4100 [Play Area](https://imgur.com/a/FaFj2Zm)
 * **CONTROLLER**: Xbox Elite Wireless Controller Series 2
-* **HEADPHONES**: KZ ZS10 Pro / Sennheiser GAME ZERO
+* **HEADPHONES**: KZ ZS10 Pro
 * **CAMERAS**: Sony Alpha a7 III (Sony 28-70mm F3.5-5.6 FE OSS) / Logitech C922 Pro Stream
 
 # ⚙️ Other
