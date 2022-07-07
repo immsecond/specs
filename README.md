@@ -10,13 +10,13 @@
 - [Link to Full Build](https://pcpartpicker.com/user/ImmSecond/saved/wYv68d)
 
 # ⌨️ Peripherals
-* **KEYBOARD**: ***Bella*** (75% Exploded Layout, Top Mount, Brass Plate, Hot-swap RGB PCB, Case/Plate Foam, Stock Banana Splits, Clipped/Lubed Cherry Stabilizers, GMK Modern Dolch)
+* **KEYBOARD**: ***ginko65*** (65% Layout, Gasket Mount, Carbon Fiber Plate, Hot-swap PCB, Poron PCB Foam, Stock Banana Splits, Lubed Staebies V2 Stabilizers, GMK Modern Dolch)
 * **MONITORS**: ViewSonic ELITE XG270 (240hz) / Dell D2719HGF (144hz)
 * **MICROPHONE**: BEACN Mic
 * **MICE**: Razer Viper Ultimate Wireless / Logitech MX Master 3
 * **TABLET**: Wacom CTL4100 [Play Area](https://imgur.com/a/FaFj2Zm)
 * **CONTROLLER**: Xbox Elite Wireless Controller Series 2
-* **HEADPHONES**: KZ ZS10 Pro
+* **HEADPHONES**: Moondrop Aria (TRN T2 PRO Cable)
 * **CAMERAS**: Sony Alpha a7 III (Sony 28-70mm F3.5-5.6 FE OSS) / Logitech C922 Pro Stream
 
 # ⚙️ Other
