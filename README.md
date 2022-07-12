@@ -10,7 +10,7 @@
 - [Link to Full Build](https://pcpartpicker.com/user/ImmSecond/saved/wYv68d)
 
 # ⌨️ Peripherals
-* **KEYBOARD**: ***ginko65*** (65% Layout, Gasket Mount, Carbon Fiber Plate, Hot-swap PCB, Poron PCB Foam, Stock Banana Splits, Lubed Staebies V2 Stabilizers, GMK Modern Dolch)
+* **KEYBOARD**: ***ginko 65*** (65% Layout, Gasket Mount, Carbon Fiber Plate, Hot-swap PCB, Poron PCB Foam, Stock Banana Splits, Lubed Staebies V2 Stabilizers, GMK Modern Dolch Light)
 * **MONITORS**: ViewSonic ELITE XG270 (240hz) / Dell D2719HGF (144hz)
 * **MICROPHONE**: BEACN Mic
 * **MICE**: Razer Viper Ultimate Wireless / Logitech MX Master 3
