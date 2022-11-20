@@ -10,7 +10,9 @@
 - [Link to Full Build](https://pcpartpicker.com/user/ImmSecond/saved/wYv68d)
 
 # ⌨️ Peripherals
-* **KEYBOARDS**: ***ginko 65*** (65% Layout, Gasket Mount, Carbon Fiber Plate, Hot-swap PCB, Poron PCB Foam, Stock Banana Splits, Lubed Staebies V2 Stabilizers, GMK Modern Dolch Light) / ***Mode Sonnet*** (75% Layout, Stack Mount, FR4 Plate, Hot-Swap PCB, Stock Tangerines, Lubed Durock V2 Stabilizers, GMK Nines, Build Code: V0A1E2H3E4B5A6A7B8B9A)
+* **KEYBOARDS**: 
+***ginko 65*** (65% Layout, Gasket Mount, Carbon Fiber Plate, Hot-swap PCB, Poron PCB Foam, Stock Banana Splits, Lubed Staebies V2 Stabilizers, GMK Modern Dolch Light)
+***Mode Sonnet*** (75% Layout, Stack Mount, FR4 Plate, Hot-Swap PCB, Stock Tangerines, Lubed Durock V2 Stabilizers, GMK Nines, Build Code: V0A1E2H3E4B5A6A7B8B9A)
 * **MONITORS**: ViewSonic ELITE XG270 (240hz) / Dell D2719HGF (144hz)
 * **MICROPHONE**: BEACN Mic
 * **MICE**: Razer Viper Ultimate Wireless / Logitech MX Master 3
